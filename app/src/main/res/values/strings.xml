@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Princess 24SI2</string>
+    <string name="label_nama">Nama: Princess Kosim</string>
+    <string name="label_nim">NIM: 03081240019</string>
+    <string name="label_fakultas">Fakultas: AI dan Data Sains</string>
+    <string name="label_prodi">Program Studi: Sistem Informasi</string>
+    <string name="label_konsentrasi">Konsentrasi: AI</string>
+</resources>
